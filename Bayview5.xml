@@ -14,7 +14,7 @@
         </value>
         <next>
           <block type="multimedia_displaybmp" id="75">
-            <field name="BMP">_4block4</field>
+            <field name="BMP">_2block4</field>
           </block>
         </next>
       </block>
